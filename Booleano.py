@@ -13,8 +13,4 @@ and: Os dois valores devem ser verdadeiro.
     True and True = True, True and False = False, False and False = True
 
 
-
-
-
-
 '''
