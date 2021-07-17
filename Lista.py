@@ -71,12 +71,6 @@ soma = 0
 for elemento in lista1:
     soma = soma + elemento
     print(soma)
-"""
-
-lista1 = [99, 1, 3, 54, 234, 12, 2]
-lista2 = ['lista2','E', 'r', 'i', 'c', ' ', 'N', 'a', 'i', 'b', 'e', 'r']
-lista3 = ['lista3',0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-lista6 = ['Programação', 'é', 'essencial', 'para', 'vida','moderna']
 
 # Utilizando o while
 
@@ -91,4 +85,31 @@ while produto != 'sair':
 
 for produto in carrinho:
     print(produto)
+
+#Gerar um índice:
+cores = ['verde','azul','amarelo','tanjerina']
+
+for indice,cor in enumerate(cores):
+    print(indice, cor)
+
+    ou
+
+cores = list(enumerate(cores))
+print(cores)
+
+# Encontrar o índice de determinado valor
+
+#          0  1  2  3  4  5
+numeros = [5, 4, 3, 2, 1 ,0]
+
+
+print(numeros.index(2))
+"""
+
+lista1 = [99, 1, 3, 54, 234, 12, 2]
+lista2 = ['lista2','E', 'r', 'i', 'c', ' ', 'N', 'a', 'i', 'b', 'e', 'r']
+lista3 = ['lista3',0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista6 = ['Programação', 'é', 'essencial', 'para', 'vida','moderna']
+
+cores = ['verde','azul','amarelo','tanjerina']
 
