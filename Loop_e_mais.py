@@ -1,4 +1,4 @@
-'''
+"""
 PyCharm, se segurar o Ctrl você consegue ver a documentação de certas funções, ex:
     print()
 
@@ -42,10 +42,9 @@ for _, letra in enumerate(nome):
     print(letra, end='')
 
 Eric
-'''
+"""
 
 nome = 'Eric'
 
 for _, letra in enumerate(nome):
     print(letra, end='')
-

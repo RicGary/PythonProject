@@ -104,12 +104,41 @@ numeros = [5, 4, 3, 2, 1 ,0]
 
 
 print(numeros.index(2))
+
+# Slicing de listas. (Copiar da aula)
+
+uma_lista = ['a', 'b', 'c', 'd', 'e', 'f']
+print(uma_lista[1:3])           # Vai do índice 1 até o índice 2 pois exclui o 3.
+print(uma_lista[:4])            # Pega os 4 primeiros.
+print(uma_lista[3:])            # Pega os 3 últimos
+
+uma_lista = ['a', 'b', 'c', 'd', 'e', 'f']
+uma_lista[1:3] = ['x', 'y']
+print(uma_lista)            # Substitui  o índice 1 ao 3 excluido pelos indicados
+
+
+uma_lista = ['a', 'b', 'c', 'd', 'e', 'f']
+uma_lista[1:3] = []
+print(uma_lista)            # Remove os índices do 1 ao 3 excluido.
+
+uma_lista = ['a', 'd', 'f']
+uma_lista[1:1] = ['b', 'c']
+print(uma_lista)                # Adiciona os elementos no índice escolhido.
+uma_lista[4:4] = ['e']
+print(uma_lista)
+
+a = ['um', 'dois', 'três']
+del a[1]
+print(a)            # Deleta o índice 1.
+
+lista = ['a', 'b', 'c', 'd', 'e', 'f']
+del lista[1:5]
+print(lista)            # Deleta o índice 1 ao 5 excluido.
 """
 
 lista1 = [99, 1, 3, 54, 234, 12, 2]
-lista2 = ['lista2','E', 'r', 'i', 'c', ' ', 'N', 'a', 'i', 'b', 'e', 'r']
-lista3 = ['lista3',0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-lista6 = ['Programação', 'é', 'essencial', 'para', 'vida','moderna']
+lista2 = ['lista2', 'E', 'r', 'i', 'c', ' ', 'N', 'a', 'i', 'b', 'e', 'r']
+lista3 = ['lista3', 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+lista6 = ['Programação', 'é', 'essencial', 'para', 'vida', 'moderna']
 
-cores = ['verde','azul','amarelo','tanjerina']
-
+cores = ['verde', 'azul', 'amarelo', 'tanjerina']

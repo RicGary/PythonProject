@@ -1,4 +1,4 @@
-'''
+"""
 Range
 
 Tipo I:
@@ -22,11 +22,11 @@ Pode formar listas usando range da seguinte forma:
 
 lista = list(range(1,11))
        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-'''
+"""
 
-for i in range(10,1,-2):
-    print(i,sep=',', end=' ')
+for i in range(10, 1, -2):
+    print(i, sep=',', end=' ')
 
-lista = list(range(1,11))
+lista = list(range(1, 11))
 
 print(lista)

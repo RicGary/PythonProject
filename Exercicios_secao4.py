@@ -1,4 +1,4 @@
-'''
+"""
 Níveis: * = Fácil, ** = Médio, *** = Difícil, **** = Muito Difícil
 Evite utiizar def, import e loops já que o objetivo desta lista é aprimorar os conhecimentos sobre
 os tipos: string, inteiro, booleano e float.
@@ -14,7 +14,7 @@ ganharia do prêmio com base no valor investido.
 Ex.51 ** :Escreva um programa que leia as coordenadas x e y de pontos no R  e calcule
 sua distância de origem (0,0), evite usar import math.
 
-'''
+"""
 
 #Ex.53: Resposta
 '''

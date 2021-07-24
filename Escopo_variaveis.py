@@ -1,4 +1,4 @@
-'''
+"""
 Escopo das variáveis.
 
 1-Variáveis globais:
@@ -16,4 +16,4 @@ int numero = 42;
 
 Exemplo Python:
 numero = 42
-'''
+"""

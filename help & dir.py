@@ -1,4 +1,4 @@
-'''
+"""
 
 dir -> Apresenta tipo de atributos/propriedades e funções/metodos disp.
 para determinado tipo de variável.
@@ -11,10 +11,10 @@ help(tipo de dado/var.propriedade)
 
 precisa definir var.
 
-'''
+"""
 
 dir('eric')
-#vai dar opções
+# vai dar opções
 
 help('eric'.opção)
-#descobre como usa
+# descobre como usa

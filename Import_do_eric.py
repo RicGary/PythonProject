@@ -6,7 +6,7 @@ Somatório de inteiros, floats e strings.
 
 string = ['Eric', 'Lúcio', 'Paulo']
 inteiro = [5, 5, 5, 5]
-float = [1.0, 2.0, 7.0]
+flutuante = [1.0, 2.0, 7.0]
 
 
 def soma(arg, esp=''):
@@ -28,4 +28,4 @@ def soma(arg, esp=''):
     return resposta
 
 
-print(soma(float))
+print(soma(string))
