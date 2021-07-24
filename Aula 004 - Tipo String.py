@@ -1,9 +1,6 @@
 """
-
-Estudo de strings.
-'nome',  "nome",   ""nome""
-
-"""
+Uma string é uma lista de valores, exemplo 'Eric', onde a letra 'E' possui
+índice 0 (na aula de listas será melhor explicado).
 
 print('Eric \nNaiber')  # \n pula para próxima linha
 
@@ -24,3 +21,4 @@ print(nome.split()[0])  # faz split na palavra inteira, posição 0
 print(nome.split()[1])
 
 print(nome[::-1])  # vá do primeiro elemento até o último e inverta
+"""

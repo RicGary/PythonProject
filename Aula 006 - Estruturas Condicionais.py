@@ -4,7 +4,6 @@ if, else, elif
 and, or:binários
 
 not, is:uniários
-"""
 
 ativo = True
 logado = True
@@ -17,3 +16,4 @@ if ativo or logado:  # Apenas 1 precisa ser True
 
 if not ativo:  # not inverte os valores True->False
     print('Você precisa ativar sua conta.')
+"""

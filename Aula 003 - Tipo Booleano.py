@@ -1,7 +1,5 @@
 """
-
 not:
-
     not True = False, not False = True
 
 or: Depende de um valor, um deve ser verdadeiro.
@@ -11,6 +9,4 @@ or: Depende de um valor, um deve ser verdadeiro.
 and: Os dois valores devem ser verdadeiro.
 
     True and True = True, True and False = False, False and False = True
-
-
 """
