@@ -1,5 +1,5 @@
 """
-Móduo Collections - Counter
+Módulo Collections - Counter
 
 Collections -> High-performance Container Datetypes
 
