@@ -3,6 +3,7 @@ Módulo Collections - Counter
 
 Collections -> High-performance Container Datetypes
 
+Link para mais info.: https://docs.python.org/3/library/collections.html?highlight=collections#collections.Counter
 
 Counter: Recebe um iterável como parâmetro e cria um objeto do tipo
 Collenctions Counter que é parecido com um dicionário, contendo como
