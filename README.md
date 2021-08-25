@@ -6,7 +6,7 @@
   Seja Bem vindo ao curso de introdução ao Python! 
 </h2>
 
-<p align="center">
+
   Aqui você aprenderá:
   * Receber dados de usuários;
   * Loops;
@@ -17,7 +17,7 @@
   * Desafios de programação;
   * Curiosidades;
   * 🚧(Under construction)🚧
-</p>
+
 
 <h1 align="center">
   Boa busca! Qualquer sugestão proponha um commit! 
