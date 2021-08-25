@@ -4,9 +4,6 @@
 
 <h2 align="center">
   Seja Bem vindo ao curso de introdução ao Python! 
-</h2>
-
-<h2 align="center">
   Aqui você aprenderá:
 <\h2>
   
