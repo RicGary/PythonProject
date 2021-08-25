@@ -8,15 +8,15 @@
 
 <p align="center">
   Aqui você aprenderá:
-  • Receber dados de usuários;
-  • Loops;
-  • Modulle Collection;
-  • Funções avançadas; def, lambda, map, filter, etc
-  • Comprehension; listas, sets, dicionários
-  • Generators;
-  • Desafios de programação;
-  • Curiosidades;
-  • 🚧(Under construction)🚧
+  * Receber dados de usuários;
+  * Loops;
+  * Modulle Collection;
+  * Funções avançadas; def, lambda, map, filter, etc
+  * Comprehension; listas, sets, dicionários
+  * Generators;
+  * Desafios de programação;
+  * Curiosidades;
+  * 🚧(Under construction)🚧
 </p>
 
 <h1 align="center">
