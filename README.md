@@ -4,7 +4,7 @@
 
 <h2 align="center"> Seja Bem vindo ao curso de introdução ao Python! </h2>
 
-# Aqui você aprenderá:
+### Aqui você aprenderá:
   
 * Receber dados de usuários;
 * Loops;
