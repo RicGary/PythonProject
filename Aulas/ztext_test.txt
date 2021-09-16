@@ -1,0 +1,2 @@
+Este é apenas um arquivo teste para utilizar durante algumas aulas sobre manipulação de arquivos.
+Outro teste, maça.
