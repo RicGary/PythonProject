@@ -1,4 +1,6 @@
 """
+Algumas aulas foram retiradas do curso de Python da Geek University.
+
 Hábitos saudáveis para um bom programador.
 
 *OBS: Esta aula está sendo escrita após o final da Aula 036 - Zip, pois estava pensando sobre o assunto.
